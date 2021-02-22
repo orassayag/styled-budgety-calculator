@@ -1,8 +1,6 @@
-# Node Vidly Deployment
+# Styled Budgety Calculator
 
-Built in June 2018.
-Styled budgety calculator to calculate budget with positive and negative items.
-Built using HTML + CSS / Pure JavaScript ES6.
+Built in June 2018. Styled budgety calculator to calculate budget with positive and negative items. Built using HTML + CSS / Pure JavaScript ES6.
 
 ## Getting Started
 
@@ -24,12 +22,16 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
-## Authors
+## Author
 
 * **Or Assayag** - *Initial work* - [orassayag](https://github.com/orassayag)
+* Or Assayag <orassayag@gmail.com>
+* GitHub: https://github.com/orassayag
+* StackOverFlow: https://stackoverflow.com/users/4442606/or-assayag?tab=profile
+* LinkedIn: https://il.linkedin.com/in/orassayag
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This application has UNLICENSED License.

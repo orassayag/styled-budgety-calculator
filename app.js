@@ -106,7 +106,7 @@ var budgetController = (function () {
         },
 
         calculatePercentages: function () {
-            // Calcaulte all percentages of the expenses
+            // Calculate all percentages of the expenses
             data.allItems.exp.forEach(element => {
                 element.calcPercentage(data.totals.inc);
             });
