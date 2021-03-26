@@ -1,6 +1,6 @@
 # Styled Budgety Calculator
 
-Built in June 2018. Styled budgety calculator to calculate budget with positive and negative items. Built using HTML + CSS / Pure JavaScript ES6.
+Built in June 2018. Styled budget calculator to calculate budget with positive and negative items. Built using HTML + CSS / Pure JavaScript ES6.
 
 ## Getting Started
 
@@ -34,4 +34,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This application has UNLICENSED License.
+This application has an UNLICENSED License.
