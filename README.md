@@ -12,9 +12,9 @@ Just run the project with Chrome.
 
 ## Built With
 
-* [JavaScript](https://javascript.info/) - The web framework used.
-* [HTML/CSS](https://learn.shayhowe.com/html-css/) - The web framework used.
-* [GIT](https://git-scm.com/) - Source management.
+* [JavaScript](https://javascript.info) - The web framework used.
+* [HTML/CSS](https://learn.shayhowe.com/html-css) - The web framework used.
+* [Git](https://git-scm.com) - Source management.
 
 ## Contributing
 
@@ -34,4 +34,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This application has an UNLICENSED License.
+This application has an UNLICENSED license.
