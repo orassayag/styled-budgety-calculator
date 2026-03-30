@@ -1,0 +1,51 @@
+{
+  "name": "styled-budgety-calculator",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A clean, modern budget calculator web application for tracking income and expenses with real-time calculations, automatic percentage breakdowns, and an intuitive color-coded interface built with pure JavaScript ES6.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/orassayag/styled-budgety-calculator.git"
+  },
+  "keywords": [
+    "javascript",
+    "es6",
+    "budget",
+    "calculator",
+    "finance",
+    "income",
+    "expense",
+    "tracker",
+    "personal-finance",
+    "budget-app",
+    "vanilla-js",
+    "no-framework",
+    "html",
+    "css",
+    "web-app",
+    "module-pattern"
+  ],
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "start:node": "npx http-server -p 8000"
+  },
+  "author": "Or Assayag <orassayag@gmail.com>",
+  "contributors": [
+    {
+      "name": "Or Assayag",
+      "email": "orassayag@gmail.com",
+      "url": "https://github.com/orassayag"
+    }
+  ],
+  "files": [
+    "index.html",
+    "app.js",
+    "style.css",
+    "CONTRIBUTING.md",
+    "LICENSE",
+    "INSTRUCTIONS.md",
+    "README.md"
+  ],
+  "license": "MIT"
+}
